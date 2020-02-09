@@ -20,8 +20,8 @@
 	padding:17px 36px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #fffdf2;
-	position:relative;
-	left: 210px;
+	position:static;
+	margin-left: 140px;
 
 }
 .myButton:hover {
@@ -29,9 +29,9 @@
 	background-color:#0d0c0c;
 }
 .myButton:active {
-	position:relative;
+	position:static;
 	top:1px;
-	left: 210px;
+	margin-left: 140px;
 }
 
 .myButton2 {
@@ -49,8 +49,8 @@
 	padding:17px 36px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #fffdf2;
-	position:relative;
-	left: 210px;
+	position:static;
+	margin-left: 140px;
 
 }
 .myButton2:hover {
@@ -58,9 +58,9 @@
 	background-color:#0d0c0c;
 }
 .myButton2:active {
-	position:relative;
+	position:static;
 	top:1px;
-	left: 210px;
+	margin-left: 140px;
 }
 
 /*# sourceMappingURL=main.faaf51f9.map*/
