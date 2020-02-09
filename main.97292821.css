@@ -20,8 +20,12 @@
 	padding:17px 36px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #fffdf2;
-	position:static;
-	margin-left: 140px;
+	position: sticky;
+	top: 25%;
+  left: 55%;
+  transform: translate(-55%, 0);
+
+
 
 }
 .myButton:hover {
@@ -29,9 +33,13 @@
 	background-color:#0d0c0c;
 }
 .myButton:active {
-	position:static;
-	top:1px;
-	margin-left: 140px;
+
+	position: sticky;
+	top: 25%;
+	left: 55%;
+	transform: translate(-55%, 0);
+
+
 }
 
 .myButton2 {
@@ -49,8 +57,10 @@
 	padding:17px 36px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #fffdf2;
-	position:static;
-	margin-left: 140px;
+	position: sticky;
+	top: 25%;
+	left: 40%;
+	transform: translate(-40%, 0);
 
 }
 .myButton2:hover {
@@ -58,9 +68,10 @@
 	background-color:#0d0c0c;
 }
 .myButton2:active {
-	position:static;
-	top:1px;
-	margin-left: 140px;
+	position: sticky;
+	top: 25%;
+  left: 40%;
+  transform: translate(-40%, 0);
 }
 
 /*# sourceMappingURL=main.faaf51f9.map*/
