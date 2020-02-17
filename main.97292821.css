@@ -38,4 +38,13 @@
 	color: black;
 	font-family: 'Russo One', sans-serif;
 }
+
+.ota-yhteytta {
+	font-weight: bold;
+	font-size: 15px;
+
+}
+.invisible-p {
+	visibility: hidden;
+}
 /*# sourceMappingURL=main.faaf51f9.map*/
